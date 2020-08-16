@@ -1,0 +1,6 @@
+name: ZMSkillKeyForVV
+main: com.mzimu.rpg.ZMSkillKeyMain
+version: 0.0.4;
+commands:
+  zmskill:
+

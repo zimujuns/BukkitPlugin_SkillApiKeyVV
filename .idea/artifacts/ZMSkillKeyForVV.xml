@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZMSkillKeyForVV">
+    <output-path>E:/1.[我的世界]Minecraft/[插件测试服务器]Spigot-1.12.2/plugins</output-path>
+    <root id="archive" name="ZMSkillKeyForVV.jar">
+      <element id="module-output" name="ZMSkilltKeyForVV" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

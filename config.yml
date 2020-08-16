@@ -1,0 +1,105 @@
+
+#这个不要改
+Winds:
+  Height: 900.0
+  Width: 1600.0
+#这个是修改技能数据的
+#SkillData:
+# 技能名称:
+#   ReadPath: "这里面写的是路径,这是准备好释放的技能图标"
+#   CdPath: "这里面写的是路径,这是冷却中的技能图标"
+SkillData:
+  NullSkill:
+    ReadPath: ""
+    CdPath: ""
+  NotSkill:
+    ReadPath: "https://imgchr.com/i/NfzQ2V"
+    CdPath: "https://imgchr.com/i/NfzQ2V"
+
+
+#这个是改技能栏的地方 最好不要改 我已经改好了
+#Path是路径 想要修改技能栏 直接在这里修改
+Main:
+  Path: '[local]mainm.png'
+  x: 0
+  y: 0
+  z: 0
+  SlotStartX: 7
+  SlotStartY: 7
+  SlotInterval: 18
+
+#这个尽量不要修改
+Slot:
+  '0':
+    x: 13
+    y: 0
+    z: 1
+  '1':
+    x: 13
+    y: -1
+    z: 1
+  '2':
+    x: 13
+    y: -3
+    z: 1
+  '3':
+    x: 13
+    y: -4
+    z: 1
+  '4':
+    x: 13
+    y: -5
+    z: 1
+  '5':
+    x: 13
+    y: -6
+    z: 1
+  '6':
+    x: 13
+    y: -7
+    z: 1
+  '7':
+    x: 13
+    y: -8
+    z: 1
+  '8':
+    x: 13
+    y: -9
+    z: 1
+Slot2:
+  '0':
+    x: 13
+    y: 1
+    z: 1
+  '1':
+    x: 13
+    y: -1
+    z: 1
+  '2':
+    x: 13
+    y: -2
+    z: 1
+  '3':
+    x: 13
+    y: -3
+    z: 1
+  '4':
+    x: 13
+    y: -4
+    z: 1
+  '5':
+    x: 13
+    y: -5
+    z: 1
+  '6':
+    x: 13
+    y: -7
+    z: 1
+  '7':
+    x: 13
+    y: -7
+    z: 1
+  '8':
+    x: 13
+    y: -8
+    z: 1
